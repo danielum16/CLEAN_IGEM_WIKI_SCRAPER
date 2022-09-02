@@ -63,6 +63,7 @@ MIDDLEWARE = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:8000",
+    "ec2-54-175-9-29.compute-1.amazonaws.com",
 ]
 
 ROOT_URLCONF = "django_igem_new.urls"
