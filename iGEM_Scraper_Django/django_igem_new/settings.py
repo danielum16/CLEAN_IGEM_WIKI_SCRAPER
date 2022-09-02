@@ -31,7 +31,8 @@ ALLOWED_HOSTS = [
     "danielum16.pythonanywhere.com",
     "127.0.0.1:3000",
     "http://127.0.0.1:8000/",
-    "127.0.0.1"
+    "127.0.0.1",
+    "ec2-54-175-9-29.compute-1.amazonaws.com",
 ]
 
 
